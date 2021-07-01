@@ -1,2 +1,2 @@
-# tut-opencv-tutorial
-Basics of OPENCV tutorial
+# tut-opencv-learnings
+Basics of OPENCV 
